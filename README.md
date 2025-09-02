@@ -92,7 +92,7 @@ If you have questions or want to discuss this project, feel free to reach out:
 
 
 # Author
-Name : Azmath Patel
+Name : Azmath Patel  
 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/azmath-patel-software-engineer/)
 
 # Additional Projects
