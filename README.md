@@ -97,7 +97,7 @@ LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/azmath-patel
 
 # Additional Projects
 
-github repository link: [Aws Cloudfront Static Website](https://github.com/Azmath-Patel/aws-cloudfront-static-website/tree/main)
+Github repository link: [Aws Cloudfront Static Website](https://github.com/Azmath-Patel/aws-cloudfront-static-website/tree/main)
 
 
 
