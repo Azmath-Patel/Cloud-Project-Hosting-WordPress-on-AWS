@@ -29,6 +29,7 @@ Configure and deploy WordPress for professional use
 
                    
 ![Architecture](Architecture.png)
+<img src="Architecture.png" alt="Architecture" width="400"/>
 
 
 # Key Points:
@@ -44,8 +45,10 @@ VPC provides secure networking
 WordPress Dashboard
 ![Wordpress_Dashboard](Wordpress_Dashboard.png)
 
+
 Homepage of the deployed site
 ![Homepage](Homepage.png)
+
 
 EC2 instance running WordPress
 ![EC2_instance_running_WordPress](EC2_instance_running_WordPress.png)
