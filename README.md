@@ -28,7 +28,7 @@ Configure and deploy WordPress for professional use
                    +--> [VPC for networking & security]
 
                    
-<img src="Architecture.png" alt="Architecture" width="400"/>
+
 
 
 # Key Points:
@@ -63,11 +63,6 @@ VPC provides secure networking
 | 18   | **WordPress Running in Browser:** Final live website screenshot.                                      | <img src="WP_window_in_Browser.png" alt="WordPress Live in Browser" width="400"/>        |
 
 
-# 🔗 GitHub Repository
-
-View the Project Repository
-
-
 
 
 # 📖 How to Deploy 
@@ -100,7 +95,9 @@ If you have questions or want to discuss this project, feel free to reach out:
 Name : Azmath Patel
 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/azmath-patel-software-engineer/)
 
+# Additional Projects
 
+github repository link: [Aws Cloudfront Static Website](https://github.com/Azmath-Patel/aws-cloudfront-static-website/tree/main)
 
 
 
