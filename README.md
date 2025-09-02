@@ -22,14 +22,16 @@ Configure and deploy WordPress for professional use
 
 
 
-📌 Architecture Overview
+# 📌 Architecture Overview
 [User Browser] <---> [AWS EC2 (Apache + PHP + WordPress)] <---> [AWS RDS (MySQL Database)]
                    |
                    +--> [VPC for networking & security]
-![Architecture](architecture.png)
+
+                   
+![Architecture](Architecture.png)
 
 
-Key Points:
+# Key Points:
 
 EC2 instance hosts WordPress application
 
@@ -37,27 +39,27 @@ RDS instance stores WordPress database
 
 VPC provides secure networking
 
-📸 Screenshots
+# 📸 Screenshots
 
 WordPress Dashboard
-![Architecture](architecture.png)
+![Wordpress_Dashboard](Wordpress_Dashboard.png)
 
 Homepage of the deployed site
-![Architecture](architecture.png)
+![Homepage](Homepage.png)
 
 EC2 instance running WordPress
-![Architecture](architecture.png)
+![EC2_instance_running_WordPress](EC2_instance_running_WordPress.png)
 
 (Add screenshots in your repo or link them here using ![Screenshot](path-to-image))
 
-🔗 GitHub Repository
+# 🔗 GitHub Repository
 
 View the Project Repository
 
 
 
 
-📖 How to Deploy (Optional)
+# 📖 How to Deploy 
 
 Launch an EC2 instance with Amazon Linux or Ubuntu.
 
@@ -78,13 +80,15 @@ Update security groups to allow HTTP/HTTPS access.
 Test the website by visiting your EC2 public IP or domain.
 
 
-📬 Contact Me
+# 📬 Contact Me
 
 If you have questions or want to discuss this project, feel free to reach out:
 
-Email: YOUR_EMAIL_HERE
 
-LinkedIn: YOUR_LINKEDIN_PROFILE
+# Author
+Name : Azmath Patel
+LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/azmath-patel-software-engineer/)
+
 
 
 
