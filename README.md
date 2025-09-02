@@ -28,7 +28,6 @@ Configure and deploy WordPress for professional use
                    +--> [VPC for networking & security]
 
                    
-![Architecture](Architecture.png)
 <img src="Architecture.png" alt="Architecture" width="400"/>
 
 
@@ -44,14 +43,15 @@ VPC provides secure networking
 
 WordPress Dashboard
 ![Wordpress_Dashboard](Wordpress_Dashboard.png)
-
+<img src="Architecture.png" alt="Architecture" width="400"/>
 
 Homepage of the deployed site
 ![Homepage](Homepage.png)
-
+<img src="Architecture.png" alt="Architecture" width="400"/>
 
 EC2 instance running WordPress
 ![EC2_instance_running_WordPress](EC2_instance_running_WordPress.png)
+<img src="Architecture.png" alt="Architecture" width="400"/>
 
 (Add screenshots in your repo or link them here using ![Screenshot](path-to-image))
 
